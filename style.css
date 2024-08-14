@@ -1,0 +1,119 @@
+body {
+    background-color: rgb(218, 233, 233);
+}
+
+header {
+    border: 2px solid rgb(16, 14, 14);
+    height: 70px;
+    background: rgb(103, 121, 165);
+    color: rgb(187, 233, 225);
+
+}
+
+.container {
+    width: 800px;
+    height: 550px;
+    border: 2px solid #120b0b;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-top: 30px;
+    background-color: white;
+}
+
+.blog {
+    text-align: center;
+}
+
+.open {
+    text-align: right;
+
+}
+
+.card {
+    height: 200px;
+    width: 400px;
+    float: right;
+    clear: right;
+    margin-top: -1130px;
+    right: -650PX;
+}
+
+.nan {
+    background-color: white;
+    border: 2px solid black;
+}
+
+
+.section {
+    height: 400px;
+    width: 470px;
+    float: right;
+    clear: right;
+    margin-top: -770px;
+    right: -570PX;
+    background-color: white;
+}
+
+.h2c {
+    background-color: rgb(206, 176, 140);
+    padding: 8px;
+    container: 16px;
+}
+
+.imgname {
+
+    width: 60px;
+    height: 50px;
+}
+
+.spanname {
+    font-size: 20PX;
+
+}
+
+.Labels {
+    height: 250px;
+    width: 400px;
+    float: right;
+    clear: right;
+    margin-top: -310px;
+    right: -600PX;
+    background-color: antiquewhite;
+}
+
+.boxing {
+    background-color: rgb(206, 176, 140);
+    padding: 8px;
+    container: 16px;
+}
+
+/* .container1 {
+    height: 20px;
+    width: 70px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+} */
+ 
+.number{
+    width:30vh;
+    height:2px;
+    border-radius:33px;
+    background-color: transparent;
+    border: none;
+    color: darkgray;
+    font-size: 1em;
+    font-family: poppins;
+  }
+
+footer {
+    font-family: 'Box  2', cursive;
+    background-color: rgb(199, 168, 168);
+    color: white;
+    padding: 34px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
